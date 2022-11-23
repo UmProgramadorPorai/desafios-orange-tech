@@ -1,17 +1,17 @@
 import styled from "styled-components";
 
 export const ButtonContainer = styled.button`
-  background-color: #fafafa;
-  border: 1px solid #fafafa;
-  border-radius: 20px;
-
   width: 80%;
-  padding: .65rem;
-
+  padding: 1rem;
   margin: 1.25rem;
 
+  background-color: #f4f4f5;
+  
+  border-radius: 1rem;
+  border: none;
+
   &:hover {
-    background-color: #fafafa60;
+    background-color: #d4d4d4;
     cursor: pointer;
   }
 `;
