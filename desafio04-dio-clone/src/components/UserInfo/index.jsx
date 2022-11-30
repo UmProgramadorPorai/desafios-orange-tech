@@ -2,7 +2,7 @@ import React from "react";
 
 import { Container, NameText, Progress, UserPicture } from "./styles";
 
-const UserInfo = ({ nome, image, percentual }) => {
+export default function UserInfor({ nome, image, percentual }) {
   return (
     <Container>
       <UserPicture src={image} />
@@ -13,5 +13,3 @@ const UserInfo = ({ nome, image, percentual }) => {
     </Container>
   );
 };
-
-export { UserInfo };
