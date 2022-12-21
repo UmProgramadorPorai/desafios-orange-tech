@@ -1,6 +1,6 @@
 # Desafios Orange Tech +
 
-Repositório de projetos desafio realizados durante o bootcamp Orange Tech +.
+Repositórios de projetos com desafios realizados durante o bootcamp Orange Tech +.
 
 ## Desafios
 
